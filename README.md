@@ -20,7 +20,7 @@ python main.py
 python script.py
 ```
 ## Basic Architecture
-![Initial Design](/.eraser/33sCr2vwTDjaBKFqHLCa___TjP6AZsOZLVedjA9LYrfglUMQCH2___---figure---lD5zpGyLRZB09bdsW7M3l---figure---PXS9QDibvvxzWK9fSKuMIA.png "Initial Design")
+![Initial Design](/.eraser/33sCr2vwTDjaBKFqHLCa___TjP6AZsOZLVedjA9LYrfglUMQCH2___---figure---cHX2UisRc99ypzZ97ePLF---figure---PXS9QDibvvxzWK9fSKuMIA.png "Initial Design")
 
 
 
